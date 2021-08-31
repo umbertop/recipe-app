@@ -1,4 +1,4 @@
-package com.upalazzini.recipe.domain
+package com.upalazzini.recipe.domain.entities
 
 import java.util.*
 
